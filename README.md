@@ -65,7 +65,7 @@ You can reference these colors in your CSS, eg:
 
 - Family: [Rubik](https://fonts.google.com/specimen/Rubik)
 
-Example usage:
+The font is already setup in your [index.html](./index.html). Example usage:
 
 ```css
 .someElement {
