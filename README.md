@@ -6,7 +6,13 @@ Your challenge is to build out this comments section in HTML and CSS and get it 
 
 Pay especially **careful attention to margin and padding**, and to **alignment**. The app should cohesive, but not claustrophobic.
 
-See [./design/desktop-design.jpg](./design/desktop-design.jpg). Icons and images are located in [./images/](./images/)
+See [./design/desktop-design.jpg](./design/desktop-design.jpg). Icons and images are located in [./images/](./images/).
+
+Note that SVG images can be used just like any other image, eg:
+
+```html
+<img alt="edit" src="./images/icon-edit.svg" />
+```
 
 
 ## Style Guide
