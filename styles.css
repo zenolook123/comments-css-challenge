@@ -1,0 +1,36 @@
+body {
+    background-color: gray;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    margin: 60px auto;
+    width: 700px;
+}
+
+.rank-ui {
+    height: 100px;
+    background-color:white;
+    padding: 20px;
+    border-radius: 8px;
+    display: flexbox;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+ul.comment-list {
+    background-color: black;
+    display: flexbox;
+    padding: 20px;
+}
+
+ul.comment-list > li {
+    display: flex;
+    background: white;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    padding: 25px;
+}
