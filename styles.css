@@ -1,5 +1,5 @@
 body {
-    background-color: gray;
+    background-color:darkslateblue;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     margin: 0;
     padding: 0;
@@ -22,7 +22,7 @@ body {
 }
 
 ul.comment-list {
-    background-color: black;
+    background-color:gainsboro;
     display: flexbox;
     padding: 20px;
 }
@@ -34,3 +34,4 @@ ul.comment-list > li {
     border-radius: 8px;
     padding: 25px;
 }
+/* https://techbrij.com/css-selector-adjacent-child-sibling */
